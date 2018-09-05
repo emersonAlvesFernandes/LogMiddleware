@@ -1,0 +1,15 @@
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\CustomMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\CustomMiddleware.AssemblyInfoInputs.cache
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\CustomMiddleware.AssemblyInfo.cs
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\bin\Debug\netcoreapp2.1\CustomMiddleware.deps.json
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\bin\Debug\netcoreapp2.1\CustomMiddleware.runtimeconfig.json
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\bin\Debug\netcoreapp2.1\CustomMiddleware.runtimeconfig.dev.json
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\bin\Debug\netcoreapp2.1\CustomMiddleware.dll
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\CustomMiddleware.csprojAssemblyReference.cache
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\CustomMiddleware.RazorAssemblyInfo.cache
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\CustomMiddleware.RazorAssemblyInfo.cs
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\CustomMiddleware.RazorTargetAssemblyInfo.cache
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\bin\Debug\netcoreapp2.1\CustomMiddleware.pdb
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\CustomMiddleware.dll
+C:\Users\emerson.santos\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\CustomMiddleware.pdb
